@@ -1,0 +1,2 @@
+# gyakrepo
+gyakorlás a githubban
